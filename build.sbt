@@ -1,17 +1,10 @@
-name := """play-scala-seed"""
-organization := "com.example"
+enablePlugins(ScalaJSPlugin)
 
-version := "1.0-SNAPSHOT"
+name := "Scala.js Tutorial"
+scalaVersion := "2.13.1" // or any other Scala version >= 2.11.12
 
-lazy val root = (project in file(".")).enablePlugins(PlayScala)
+// This is an application with a main method
+scalaJSUseMainModuleInitializer := true
 
-scalaVersion := "2.13.12"
 
-libraryDependencies += guice
-libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.0" % Test
-
-// Adds additional packages into Twirl
-//TwirlKeys.templateImports += "com.example.controllers._"
-
-// Adds additional packages into conf/routes
-// play.sbt.routes.RoutesKeys.routesImport += "com.example.binders._"
+libraryDependencies += "org.scala-js" %%% "scalajs-dom" % "2.4.0"
