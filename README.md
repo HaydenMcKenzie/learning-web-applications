@@ -2,8 +2,4 @@
 A website with built mainly with Scala to show off my resume
 
 # Technology
-- Front-end - Scala.js
-- Runtime   - Scala
-- Back-end  - Scalatra
-- Database  - PostgreSQL (if needed)
-- More to be added later if need
+I am going to try and use Scala and the tools associated with Scala. This includes Play and Scala.js
