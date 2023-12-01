@@ -1,5 +1,14 @@
-## My Own Portfolio
-A website with built mainly with Scala to show off my resume
+# Learning Web Development 
+A repository to learn a bunch of things about Web development including frontend, backend, database, devops and extra things such as HTTPS requests. 
 
-# Technology
-I am going to try and use Scala and the tools associated with Scala. This includes Play and Scala.js
+## Technology
+###Frontend
+UI: React
+Framework: Scala.js
+###Backend
+Framework: Play Framework
+###Database
+SQL: PostgreSQL 
+###DevOps
+Cloud: AWS
+Deployment: Heroku
