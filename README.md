@@ -2,13 +2,13 @@
 A repository to learn a bunch of things about Web development including frontend, backend, database, devops and extra things such as HTTPS requests. 
 
 ## Technology
-###Frontend
+### Frontend
 UI: React
 Framework: Scala.js
-###Backend
+### Backend
 Framework: Play Framework
-###Database
+### Database
 SQL: PostgreSQL 
-###DevOps
+### DevOps
 Cloud: AWS
 Deployment: Heroku
