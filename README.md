@@ -1,5 +1,5 @@
 # Learning Web Development 
-A repository to learn a bunch of things about Web development including frontend, backend, database, devops and extra things such as HTTPS requests. 
+A repository to learn a bunch of things about Web development including frontend, backend, database, devops and extra things such as HTTPS requests. I'll be using Udemy
 
 ## Technology
 ### Frontend
